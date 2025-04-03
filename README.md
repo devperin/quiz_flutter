@@ -1,9 +1,9 @@
-# This is an app that contains six questions about flutter.
-# It has a shuffled answers.
-# The purpose of this app is to implement more knowledge about the framework as a student that wants to increase the carrer as being adept to solve problems and help other students.
-# I've developing this app as a student of a course called (Flutter & Dart - The Complete Guide ) by John M.
-# If you want more details about how it was build
-# This is the version of what you need to run this app:
+- This is an app that contains six questions about flutter.
+- It has a shuffled answers.
+- The purpose of this app is to implement more knowledge about the framework as a student that wants to increase the carrer as being adept to solve problems and help other students.
+- I've developing this app as a student of a course called (Flutter & Dart - The Complete Guide ) by John M.
+- If you want more details about how it was build
+- This is the version of what you need to run this app:
 - Flutter version 3.27.2
 - Dart version 3.6.1
 - java version "21.0.1" 2023-10-17 LTS
