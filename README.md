@@ -13,9 +13,9 @@
 # Here is some images about the app, I hope you enjoy!
 
 
-This is the initial page
+**Initial Page** The app starting screen
 ![tela_inicial](https://github.com/user-attachments/assets/23079ee6-ba1d-423a-a87a-b60f3fd65f30)
-Here you're gonna find 6 pages with questions about flutter
+**Quiz Page** Six pages containing Flutter-related questions.
 ![quiz](https://github.com/user-attachments/assets/f2b6dcc9-e136-4182-9f04-7cc3f58b1ff3)
-This screen, you're gonna find the correct_answers, how many answers you got it right as many of you got wrong.
+**Quiz Results** Displays correct/incorrect answers and the overall score.
 ![result_quiz](https://github.com/user-attachments/assets/be28d935-3902-4488-a7e6-896658b7c5f3)
